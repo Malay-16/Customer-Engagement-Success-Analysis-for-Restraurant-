@@ -1,11 +1,14 @@
 # Customer-Engagement-Success-Analysis-for-Restraurant-
-#📊 Project Overview
+
+📊 Project Overview
+
 This project analyzes how user engagement metrics influence restaurant success using Yelp data.
 The goal is to understand whether reviews, tips, check-ins, sentiment, and elite user activity contribute to higher ratings and sustained business growth.
 
 The analysis leverages SQL, Python, and statistical techniques to uncover data-driven business insights.
 
 🎯 Business Problem
+
 In a competitive restaurant industry, understanding what drives customer engagement and business success is crucial.
 
 This project investigates:
@@ -15,7 +18,9 @@ Do reviews, tips, and check-ins correlate with each other?
 Do elite users influence restaurant visibility?
 How does engagement vary across cities and time?
 What are the peak engagement hours?
+
 📂 Dataset Overview
+
 Source: Yelp Dataset (JSON format)
 150K+ businesses analyzed
 35K active restaurants selected
@@ -26,12 +31,14 @@ Review
 User
 Tip
 Check-in
+
 🛠 Tech Stack
 SQL – Data extraction & aggregation
 Python (Pandas, NumPy, Matplotlib, Seaborn) – EDA & visualization
 Statistical Analysis – Hypothesis testing & correlation analysis
 Jupyter Notebook – Analysis workflow
 Database Creation Notebook – Structured data storage
+
 🔍 Key Findings
 1️⃣ Engagement vs Ratings
 Engagement increases from 1⭐ to 4⭐ restaurants
@@ -97,6 +104,7 @@ Build relationships with elite users for amplified reach.
 Optimize staffing during evening peak hours.
 Invest in markets like Philadelphia for expansion opportunities.
 Monitor engagement trends to maintain long-term growth stability.
+
 🚀 Conclusion
 Restaurant success is not determined solely by ratings.
 

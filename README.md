@@ -1,5 +1,5 @@
 # Customer-Engagement-Success-Analysis-for-Restraurant-
-📊 Project Overview
+#📊 Project Overview
 This project analyzes how user engagement metrics influence restaurant success using Yelp data.
 The goal is to understand whether reviews, tips, check-ins, sentiment, and elite user activity contribute to higher ratings and sustained business growth.
 
